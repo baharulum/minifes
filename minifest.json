@@ -1,0 +1,38 @@
+{
+  "name": "carague92.blogspot.com",
+  "short_name": "Cara Gue",
+  "start_url": "https://carague92.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#7975ff",
+  "description": "Blog yang membahas Android, tutorial, dan firmware.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-PX_NoJpoBBY/XKWT5iJuGQI/AAAAAAAAA0s/9lJW5tGBZ7wQDzICkBH7Y9d3GeLGvqymQCLcBGAs/s1600/lolgo%2B48%2Bx%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-iIWSRwOiegE/XKWT4yU5NpI/AAAAAAAAA0k/3qPfMFgz9_Q2jeBWEqpzD_hYU0fzOAujACLcBGAs/s1600/logo%2B72%2Bx%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-qkf3cDFVqe4/XKWT5KlUIhI/AAAAAAAAA0o/hFlEkID-Q6YZnDg5vqJ60YxRIqUlL-PNwCLcBGAs/s1600/logo%2B96%2Bx%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-mXwS2ywTPpo/XKWT3dD8tqI/AAAAAAAAA0Q/ePczPrrILUIbeas9A1CsSw2z14C_XOLIQCLcBGAs/s1600/logo%2B144%2Bx%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-eWU5dG-NL2Q/XKWT3V7KJHI/AAAAAAAAA0U/6cxwbEH0SOA2d3s7azh5pXnyfkLjPAIrgCLcBGAs/s1600/logo%2B168%2Bx%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/--JMuJK6fNp4/XKWT4FBsSbI/AAAAAAAAA0Y/Duvob_VH3n8vrwh86NOJOLE6GUuGrJppgCLcBGAs/s1600/logo%2B192%2Bx%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W1rF8L3pDDw/XKWT4tXzuyI/AAAAAAAAA0g/3nZ71EfJPaIi93T2QZzPVZBYEMxY01DfQCLcBGAs/s1600/logo%2B512%2Bx%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
